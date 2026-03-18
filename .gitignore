@@ -1,8 +1,1 @@
-# Visual Studio
 .vs/
-*.user
-*.suo
-*.cache
-*.pdb
-*.obj
-*.exe
